@@ -18,11 +18,3 @@ This repository contains the source code for my personal website and research po
 * **Frontend:** HTML5, CSS3, JavaScript (React/Next.js)
 * **Hosting:** GitHub Pages
 * **Styling:** Tailwind CSS or custom CSS modules
-
-## 📂 Directory Structure
-```text
-├── assets/             # Images, PDFs, and media
-├── css/                # Stylesheets (Sass/Tailwind)
-├── js/                 # Interaction logic
-├── index.html          # Main landing page
-└── README.md           # Project documentation
