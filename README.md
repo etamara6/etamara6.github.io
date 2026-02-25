@@ -15,6 +15,6 @@ This repository contains the source code for my personal website and research po
 
 
 ## 🛠️ Tech Stack (Planned)
-* **Frontend:** HTML5, CSS3, JavaScript (React/Next.js)
+* **Frontend:** HTML5
 * **Hosting:** GitHub Pages
 * **Styling:** Tailwind CSS or custom CSS modules
