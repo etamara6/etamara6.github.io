@@ -1,6 +1,5 @@
 # Personal Research Portfolio & Website
 
-[![Status: In Development](https://img.shields.io/badge/Status-In_Development-yellow.svg)](#)
 [![Field: Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
